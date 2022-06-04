@@ -9,6 +9,7 @@
     * Feta (yksi levy riittää)
     * Munia
     * Korianteri
+    * Sitruuna
 * Mausteet
     * Juustokumina
     * Cayannnepippuri
@@ -23,5 +24,6 @@
 * Hauduta 10minuuttia
 * Lisää puolet fetasta (pilko rouheeksi tjms), voi vähän sekoitella
 * Tee koloja seokseen ja riko niihin kananmunia, niin paljon kuin pannulle mahtuu, yritä saada 6 =)
+* Anna paistua / kiehua vielä 5min, tai niin pitkään että munat saaneet haluamasi muodon
 
 # Tarjoile ja nauti
