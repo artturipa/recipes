@@ -28,3 +28,7 @@
 * Anna paistua / kiehua vielä 5min, tai niin pitkään että munat saaneet haluamasi muodon. Keltuaiset voi jäädä raa'aksi.
 
 # Tarjoile sitruunan kanssa ja nauti
+
+
+ ![Kuva ruasta](https://raw.githubusercontent.com/artturipa/recipes/master/shakshuka/coverpic.jpg)
+
