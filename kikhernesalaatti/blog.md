@@ -2,6 +2,7 @@
 
 * Kaks pakettia kikherneitä. Alkuperäisessä ohjeessa sanottiin 250g
 * Muutama punainen chilipaprika
+* Valkosipulia (5 kynttä)
 * Iso punasipuli
 * oliiviöljyä / öljyä
 * Fetaa noin 250g
