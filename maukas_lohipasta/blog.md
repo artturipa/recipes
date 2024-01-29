@@ -1,34 +1,22 @@
-# Ohjeet
+# Kaupasta mukaan
+* 4 valkosipulinkynttä
+* pinjansiemeniä
+* 1dl kermaa / 2dl ruokakermaa 
+* 4 rkl pestoa
+* Pastaa (400g)
+* parmesanraastetta
+* Savustettua lohta 
+* \+ Öljyä, mustapippuria, suolaa 
 
-* kalsfa
-* aksjdalskd
+# Valmistaminen
+1. Pastavesi kiehumaan
+2. Paahda ensin pinjansiemeniä kuumalla kuivalla pannulla 2 minuuttia. Laita sivuun.
+3. Kuumenna valkosipulinkynnet öljyssä. Itse laiskana laitan suoraan murskattuna öljyssä kuumenemaan, mutta hifistelijät voi kuumentaa kokonaisena kunnes pehmenee ja muussata sitten lastalla.
+4. Lisää pannuun kerma ja kiehauta.
+5. Lisää sekaan pesto ja keitä kasaan 3min. Mausta kastike mustapippurilla. Pinjansiemenet voi laittaa suoraan kastikkeeseen tai jättää koristeeksi päälle
+6. Keitä pasta ja sekoita kastikkeen kanssa.
+7. Laita lohipaloja valmiin pastan sekaan
 
-## alsdfjaklsdf
-
-### falkösdfjalösdf
-
-kldsjfalsd
-lskdfgj
-jalsdkfa
-
-KERMAINEN PESTOPASTA
-AINEKSET
- 4 valkosipulinkynttä
- 4 rkl pinjansiemeniä
- 1 rkl öljyä
- 2 dl kermaa
- 4 rkl pestoa
- 1/4 tl mustapippuria
- 1 dl parmesaaniraastetta
-Lisäksi
- 400 g pastaa (esim. tagliatelle)
- 2 l vettä
- 1 rkl suolaa
-TYÖVAIHEET
-Kuori valkosipulinkynnet.
-Paahda ensin pinjansiemeniä kuumalla kuivalla pannulla 2 minuuttia. Laita sivuun.
-Kuumenna öljy pannulla ja paista kokonaisia valkosipulinkynsiä keskilämmöllä 5 minuuttia niin, että kynnet ruskistuvat ja pehmenevät. Muussaa kynnet suoraan pannulle haarukalla tai paistinlastalla.
-Kaada kerma pannuun ja kiehauta. Lusikoi joukkoon pesto ja keitä kastiketta kasaan 3 minuuttia. Mausta mustapippurilla. Nosta sivuun odottamaan.
 Kuumenna vesi kiehuvaksi ja mausta se suolalla. Laita pasta veteen ja keitä 8 minuuttia. Siivilöi pasta ja kumoa se lämpimän kastikkeen joukkoon. Sekoita hyvin.
 Ripottele pinnalle paahdettuja pinjansiemeniä ja raasta joukkoon parmesaania.
 
