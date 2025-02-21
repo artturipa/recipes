@@ -15,7 +15,7 @@ Ja jos ei kaapista löydy:
 # Valmistus
 
 1. Öljyä pannulle vajaa 0.5dl kuumenemaan.
-2. Tomaattimurska sekaan. Lisää 1tl mustapippuria ja suolaa.
+2. Tomaattimurska sekaan. Lisää 1tl mustapippuria ja suolaa. (HUOM, testaa myös ottaa parmesan tässä vaiheessa, kerran tehtiin ja oli ehkä parempi!)
 3. Lisää basilikanlehdet, säästä jonkin verran lehtiä annoksen viimeistelyyn
 4. Jätä keittymään miedolla lämmöllä noin 30min
 5. Runsaasti vettä kiehumaan gnocceja varten, lisää suolaa muutama tl. 
